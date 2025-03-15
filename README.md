@@ -27,13 +27,22 @@
 <h3> ⚙️  GitHub Analytics</h3>
 
 ![Metrics](/github-metrics.svg)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaohajiayou&show_icons=true&theme=github-compact&locale=ja&title_color=990099&icon_color=F7CE45&text_color=D17277&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaohajiayou&show_icons=true&theme=github-compact&locale=ja&title_color=F7CE45&icon_color=F7CE45&text_color=D17277&hide_border=true)
 
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiaohajiayou)](https://github.com/anuraghazra/github-readme-stats)
-![WakaTime Stats](https://github-readme-stats-flame-pi-70.vercel.app/api/wakatime?username=xiaohajiayou&theme=transparent&hide_border=true&layout=compact&langs_count=114514&locale=ja&title_color=990099&text_color=D17277)
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,py,ts,cmake,tensorflow,pytorch,git,github,linux,md&theme=light)
+<!-- ![WakaTime Stats](https://github-readme-stats-flame-pi-70.vercel.app/api/wakatime?username=xiaohajiayou&theme=transparent&hide_border=true&layout=compact&langs_count=114514&locale=ja&title_color=990099&text_color=D17277) -->
+
+
+
+
+
+
+<p align="center">
+
+<!-- https://github.com/tandpfun/skill-icons -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,cmake,tensorflow,pytorch,git,github,linux,windows,apple,md&theme=light" style="max-width: 100%; height: auto;">
+</p>
 
 ---
 ### 🤝🏻 &nbsp;Connect with Me
