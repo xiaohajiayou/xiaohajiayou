@@ -1,4 +1,4 @@
-## Hey there! I'm Hacode. 👋
+## Hey there!👋
 
 
 
@@ -9,11 +9,12 @@
     <img align="right" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xiaohajiayou&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </picture>
 
--   :pencil2:  C++ / Python / TypeScript / Java
--   :package: Working in AI audio/video development, aiming to get stronger. 
+
+-   👋 I'm Hacode, graduated from Sichuan University.
+-   🤖 Currently, I'm developing AI for audio/video and inference frameworks.
 -   :seedling: Love problem-solving and building cool stuff. 
--   :bulb: Intrigued by cutting-edge tech and always eager to learn and share insights on AI advancements.
--   :speech_balloon: Got questions on AI, C++, or just want to discuss the latest tech trends? Let's talk!
+-   💻 Passionate about contributing to open-source AI projects.
+-   📚 I'm a lifelong learner, striving hard every day.
 
 ---
 
