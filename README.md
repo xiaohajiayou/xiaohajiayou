@@ -27,14 +27,19 @@
 
 <h3> ⚙️  GitHub Analytics</h3>
 
-![Metrics](/github-metrics.svg)
+<!-- ![Metrics](/github-metrics.svg) -->
+
+
+
+
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaohajiayou&show_icons=true&theme=github-compact&locale=ja&title_color=FFFFFF&icon_color=F7CE45&text_color=D17277&hide_border=true)
 
+<div align="center">
 
+![WakaTime Stats](https://github-readme-stats-flame-pi-70.vercel.app/api/wakatime?username=xiaohajiayou&theme=transparent&hide_border=true&langs_count=114514&title_color=f1ffff&text_color=777770)
 
-<!-- ![WakaTime Stats](https://github-readme-stats-flame-pi-70.vercel.app/api/wakatime?username=xiaohajiayou&theme=transparent&hide_border=true&layout=compact&langs_count=114514&title_color=990099&text_color=D17277) -->
-
-
+</div>
 
 <h3> 💻  Tech Stack</h3>
 
