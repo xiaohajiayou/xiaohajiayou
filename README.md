@@ -37,8 +37,8 @@
 
 <div align="center">
 
-![WakaTime Stats](https://github-readme-stats-flame-pi-70.vercel.app/api/wakatime?username=xiaohajiayou&theme=transparent&hide_border=true&langs_count=114514&title_color=f1ffff&text_color=777770)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiaohajiayou&theme=transparent&hide_border=true&langs_count=114514&title_color=f1ffff&text_color=777770)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <h3> 💻  Tech Stack</h3>
