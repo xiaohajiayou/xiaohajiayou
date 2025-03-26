@@ -38,8 +38,6 @@
 <div align="center">
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiaohajiayou&theme=transparent&hide_border=true&langs_count=114514&title_color=f1ffff&text_color=777770)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <h3> 💻  Tech Stack</h3>
 
@@ -51,13 +49,13 @@
 </p>
 
 ---
-### 🤝🏻 &nbsp;Connect with Me
+<!-- ### 🤝🏻 &nbsp;Connect with Me -->
 
 
-<div align="center">
+<!-- <div align="center">
 
   [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/1565231612?spm_id_from=333.1387.0.0)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Hacode-x2c)
   [![hacode.top](https://img.shields.io/badge/hacode.top-007BFF?style=flat&logo=hexo&logoColor=white)](http://hacode.top/)
 
-</div>
+</div> -->
