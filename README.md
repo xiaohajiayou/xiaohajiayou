@@ -10,7 +10,7 @@
 </picture>
 
 
--   👋 I'm Hacode, graduated from Sichuan University.
+-   👋 I'm Haco, graduated from Sichuan University.
 -   🤖 Currently, I'm developing AI for audio/video and inference frameworks.
 -   :seedling: Love problem-solving and building cool stuff. 
 -   💻 Passionate about contributing to open-source AI projects.
@@ -35,20 +35,20 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaohajiayou&show_icons=true&theme=github-compact&locale=ja&title_color=FFFFFF&icon_color=F7CE45&text_color=D17277&hide_border=true)
 
-<div align="center">
 
 
 
-<h3> 💻  Tech Stack</h3>
+
+<!-- <h3> 💻  Tech Stack</h3> -->
 
 
-<p align="center">
+<!-- <p align="center"> -->
 
-<!-- https://github.com/tandpfun/skill-icons -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,cmake,tensorflow,pytorch,git,github,linux,windows,apple,md&theme=light" style="max-width: 100%; height: auto;">
-</p>
 
----
+  <!-- <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,cmake,tensorflow,pytorch,git,github,linux,windows,apple,md&theme=light" style="max-width: 100%; height: auto;"> -->
+<!-- </p> -->
+
+<!-- --- -->
 <!-- ### 🤝🏻 &nbsp;Connect with Me -->
 
 
