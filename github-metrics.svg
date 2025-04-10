@@ -21,13 +21,13 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="652.0304903810107" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="652.0304903810107" y="0" width="183.0167863709663" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="835.047276751977" y="0" width="54.788429840586005" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="889.835706592563" y="0" width="11.293818021695536" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="901.1295246142586" y="0" width="10.040165900043439" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="911.169690514302" y="0" width="5.4197187791946595" height="8" fill="#101F1F"/>
-                    <rect mask="url(#languages-bar)" x="916.5894092934967" y="0" width="3.4105907065033056" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="837.1137612015553" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="837.1137612015553" y="0" width="34.959395555283926" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="872.0731567568394" y="0" width="14.499644758856201" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="886.5728015156955" y="0" width="12.890134991634643" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="899.4629365073301" y="0" width="9.200210852807933" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="908.663147360138" y="0" width="6.958142661787512" height="8" fill="#101F1F"/>
+                    <rect mask="url(#languages-bar)" x="915.6212900219256" y="0" width="4.3787099780743635" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -44,12 +44,6 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CMake
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         PowerShell
@@ -59,6 +53,12 @@
                             <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Shell
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CMake
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
