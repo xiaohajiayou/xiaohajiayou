@@ -25,17 +25,6 @@
 
 
 
-<h3> ⚙️  GitHub Analytics</h3>
-
-<!-- ![Metrics](/github-metrics.svg) -->
-
-
-
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaohajiayou&show_icons=true&theme=github-compact&locale=ja&title_color=FFFFFF&icon_color=F7CE45&text_color=D17277&hide_border=true)
-
-
 
 
 
